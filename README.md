@@ -4,6 +4,7 @@ https://youtu.be/UwlfATjSZAc
 This project implements an Ant Colony Optimization (ACO) algorithm and visualizes the process using Manim, a mathematical animation library in Python. The ACO algorithm is inspired by the foraging behavior of ants and is used to solve complex optimization problems, such as finding the shortest path in a graph.
 
 ## Visualization Example
+Here is a video demonstration. The blue lines are the contribution from the pheromones:
 [![Watch the video](https://img.youtube.com/vi/UwlfATjSZAc/0.jpg)](https://youtu.be/UwlfATjSZAc)
 
 ## Project Overview
